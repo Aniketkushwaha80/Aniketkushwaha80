@@ -1,12 +1,9 @@
-<img align="right" alt="Coding" width="600" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
 
 <h1 align="center">Hi 👋, I'm Aniket Kushwaha</h1>
 <h3 align="center">Full stack web developer with good knowledge in designing. Dedicated to building and optimizing user focused websites using React, HTML, CSS, JavaScript. Technically proficient at solving complex problems. Looking forward to working as a web developer in an exciting organization</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkushwaha80&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkushwaha80" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketkushwaha80" alt="aniketkushwaha80" /></a> </p>
 
 - 🔭 I’m currently working on **React project**
 
@@ -23,6 +20,11 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing](https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am Memer**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkushwaha80&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkushwaha80" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketkushwaha80" alt="aniketkushwaha80" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

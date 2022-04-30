@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Kushwaha</h1>
-<h3 align="center">Full stack web developer with good knowledge in designing. Dedicated to building and optimizing user focused websites using HTML, CSS, JavaScript. Technically proficient at solving complex problems. Looking forward to working as a web developer in an exciting organization</h3>
+<h3 align="center">Full stack web developer with good knowledge in designing. Dedicated to building and optimizing user focused websites using React, HTML, CSS, JavaScript. Technically proficient at solving complex problems. Looking forward to working as a web developer in an exciting organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketkushwaha80&label=Profile%20views&color=0e75b6&style=flat" alt="aniketkushwaha80" /> </p>
 

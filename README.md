@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif"/>
 
 <h1 align="center">Hi 👋, I'm Aniket Kushwaha</h1>
-<h3 align="center">Full stack web developer with good knowledge in designing. Dedicated to building and optimizing user focused websites using React, HTML, CSS, JavaScript. Technically proficient at solving complex problems. Looking forward to working as a web developer in an exciting organization</h3>
+<h4 align="center">Full stack web developer with good knowledge in designing. Dedicated to building and optimizing user focused websites using React, HTML, CSS, JavaScript. Technically proficient at solving complex problems. Looking forward to working as a web developer in an exciting organization</h4>
 
 
 

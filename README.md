@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing](https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing)
+- 👨‍💻 My Resume [https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing](https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing)
 
 - 📝 I regularly write articles on [https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing](https://drive.google.com/file/d/1om_dvQeBbDZE6mXN3LlQhV0NaUSttvdF/view?usp=sharing)
 
